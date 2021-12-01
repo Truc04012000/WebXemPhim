@@ -1,0 +1,25 @@
+.pagination{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.page_numbers{
+	list-style: none;
+}
+.page_numbers >li{
+	cursor: pointer;
+	display: inline-block;
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+	float:left;
+	border: 1px solid #C3BFBF;
+	margin: 5px;
+}
+.page_numbers >li:hover{
+	background-color: black;
+	color: white;
+}
+.number.active{
+	background-color: #B33026;
+}

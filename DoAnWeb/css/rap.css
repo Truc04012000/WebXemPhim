@@ -1,0 +1,28 @@
+.cinemas{
+    background-color: #363b3f;
+    padding:20px;
+    margin-bottom: 170px; 
+}
+.hr{
+    border-top: 1px solid #b9b9b9;
+}
+.tinh{
+    color: white;
+}
+.tinh:hover{
+    color: red;
+}
+.tenrap{
+    color: white;
+    margin-bottom:15px;
+}
+.title h1{
+    text-align: center;
+    color: #717171;
+    font-size: 48px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #b9b9b9;
+}
+.current{
+    color:red;
+}
